@@ -1,2 +1,2 @@
 # Insertion Sort Practice
- For practicing insertion sort
+This repository was used for practicing the insertion sort algorithm.
