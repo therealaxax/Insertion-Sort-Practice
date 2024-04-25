@@ -1,2 +1,2 @@
-# Insertion-sort-practice-thingy
+# Insertion Sort Practice
  For practicing insertion sort
